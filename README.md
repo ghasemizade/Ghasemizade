@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 align="center"> Currently learning 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)]
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)
 
 <!--
 **ghasemizade/Ghasemizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
