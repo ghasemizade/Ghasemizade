@@ -6,7 +6,7 @@
 
 - 🔭 &ensp;I’m currently working on [**Jibers**][github]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**Telegram**][telegram] or [**Email**][email]
 
 
 
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 [github]: https://github.com/ghasemizade
 [instagram]: https://www.instagram.com/hosein.ghasemizade
 [email]: mailto:hosein@ghasemizade.com
+[telegram]: https://t.me/Mr_Ghasemizade
