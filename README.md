@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 align="center"> Currently learning 😜</h3>
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=Linkedin&link=https://www.linkedin.com/in/hosein-ghasemizade/)][linkedin]
+[![Linkedin: hosein-ghasemizade](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=Linkedin&link=https://www.linkedin.com/in/hosein-ghasemizade/)][linkedin]
 
 
 <!--
