@@ -1,6 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<h3 align="center"> Currently learning 😜</h3>
 
+badge&logo=Linkedin&link=https://www.linkedin.com/in/hosein-ghasemizade/)][linkedin]
 <!--
 **ghasemizade/Ghasemizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
