@@ -2,7 +2,7 @@
 <h3 align="center"> Currently learning 😜</h3>
 
 - 🔭 &ensp;I’m currently working on [**Jibers**][jibres]!
-- 🌱 &ensp;I’m currently learning Js ❤️
+- 🌱 &ensp;I’m currently learning Flutter ❤️
 - 📫 &ensp;How to reach me: [**Telegram**][telegram] or [**Email**][email]
 
 [jibres]: https://jibres.com 
