@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 align="center"> Currently learning 😜</h3>
 
-- 🔭 &ensp;I’m currently working on [**Jibers**][jibres]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 📫 &ensp;How to reach me: [**Telegram**][telegram] or [**Email**][email]
 
