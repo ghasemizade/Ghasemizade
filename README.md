@@ -4,8 +4,8 @@
 - &ensp;I’m currently learning
 - &ensp;How to reach me: [**Telegram**][telegram] or [**Email**][email]
 
-[![Ghasemizade's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghasemizade&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemizade&size_weight=0.5&count_weight=0.5&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/ghasemizade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghasemizade&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ghasemizade's github stats" /></a> | <a href="https://github.com/ghasemizade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemizade&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [jibres]: https://jibres.com 
 [website]: https://ghasemizade.com
