@@ -4,6 +4,8 @@
 - &ensp;I’m currently learning
 - &ensp;How to reach me: [**Telegram**][telegram] or [**Email**][email]
 
+[![Ghasemizade's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghasemizade&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [jibres]: https://jibres.com 
 [website]: https://ghasemizade.com
 [twitter]: https://twitter.com/mrghasemizade
