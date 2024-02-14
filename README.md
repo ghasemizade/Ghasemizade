@@ -23,4 +23,4 @@
 [email]: mailto:hosein@ghasemizade.com
 [telegram]: https://t.me/Hosein_ghasemizade
 
-<!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/92257857/185132394-ca23135f-52eb-44b9-ae34-db36bd0f5267.gif) -->
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/92257857/185132394-ca23135f-52eb-44b9-ae34-db36bd0f5267.gif)
