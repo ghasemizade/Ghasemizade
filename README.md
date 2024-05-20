@@ -33,3 +33,5 @@
 ![frontend-cypress](https://github.com/ghasemizade/Ghasemizade/assets/92257857/81743068-4801-42b4-8897-d90d7a878799)
 ![frontend-nextjs](https://github.com/ghasemizade/Ghasemizade/assets/92257857/e50ca64d-7b33-4cfb-b12c-eb00c1321064)
 ![frontend-react](https://github.com/ghasemizade/Ghasemizade/assets/92257857/5b856ccf-abe1-455a-8c7f-938d5ee91339)
+![frontend-storybook](https://github.com/ghasemizade/Ghasemizade/assets/92257857/60d24964-3a5a-4f2a-8bcf-0068ae6b28f7)
+
