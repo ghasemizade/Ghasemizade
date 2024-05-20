@@ -24,3 +24,7 @@
 [telegram]: https://t.me/Hosein_ghasemizade
 
 ## Skills
+
+![frontend-javascript](https://github.com/ghasemizade/Ghasemizade/assets/92257857/6a469961-bc7e-4015-a519-ef640d890ae7)
+![frontend-html](https://github.com/ghasemizade/Ghasemizade/assets/92257857/12afd2f9-2811-4f4e-846b-3fabd45df7f4)
+![frontend-css](https://github.com/ghasemizade/Ghasemizade/assets/92257857/851f8d81-1a7b-49b7-a58e-8489e8770ff7)
