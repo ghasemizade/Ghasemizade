@@ -1,4 +1,4 @@
-<h1 > Hi there 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
+![frontend-nextjs](https://github.com/ghasemizade/Ghasemizade/assets/92257857/bf2d6702-a059-4996-a76d-8ffceb573015)![frontend-react](https://github.com/ghasemizade/Ghasemizade/assets/92257857/e32cd473-c45b-4afd-be55-3eda13c80b56)<h1 > Hi there 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 > Frontend Engineer 💻</h3>
 
 <!-- - &ensp;I’m currently learning -->
@@ -29,4 +29,8 @@
 ![frontend-html](https://github.com/ghasemizade/Ghasemizade/assets/92257857/12afd2f9-2811-4f4e-846b-3fabd45df7f4)
 ![frontend-css](https://github.com/ghasemizade/Ghasemizade/assets/92257857/851f8d81-1a7b-49b7-a58e-8489e8770ff7)
 ![frontend-typescript](https://github.com/ghasemizade/Ghasemizade/assets/92257857/4def45c4-dc31-444d-a5ee-1ef3ebf8bc11)
+![frontend-bootstrap](https://github.com/ghasemizade/Ghasemizade/assets/92257857/77c46970-aa6c-4f17-9425-afe50d78013f)
 ![frontend-tailwind](https://github.com/ghasemizade/Ghasemizade/assets/92257857/a61a4c9e-05fa-4008-974f-018a014b303a)
+![frontend-cypress](https://github.com/ghasemizade/Ghasemizade/assets/92257857/81743068-4801-42b4-8897-d90d7a878799)
+![frontend-nextjs](https://github.com/ghasemizade/Ghasemizade/assets/92257857/e50ca64d-7b33-4cfb-b12c-eb00c1321064)
+![frontend-react](https://github.com/ghasemizade/Ghasemizade/assets/92257857/5b856ccf-abe1-455a-8c7f-938d5ee91339)
