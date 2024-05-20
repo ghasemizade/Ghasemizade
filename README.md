@@ -1,6 +1,8 @@
 <h1> Hi there 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 > Frontend Engineer 💻</h3>
 
+![200w](https://github.com/ghasemizade/Ghasemizade/assets/92257857/56c8c587-f03e-4bd5-84b7-c18b110a24d2)
+
 <!-- - &ensp;I’m currently learning -->
 - &ensp;[**Telegram**][telegram] or [**Email**][email]
 
