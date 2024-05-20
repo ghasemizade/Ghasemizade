@@ -1,4 +1,4 @@
-![frontend-nextjs](https://github.com/ghasemizade/Ghasemizade/assets/92257857/bf2d6702-a059-4996-a76d-8ffceb573015)![frontend-react](https://github.com/ghasemizade/Ghasemizade/assets/92257857/e32cd473-c45b-4afd-be55-3eda13c80b56)<h1 > Hi there 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
+<h1> Hi there 👋, I'm <a href="https://www.linkedin.com/in/hosein-ghasemizade/">Hosein Ghasemizade!</a></h1>
 <h3 > Frontend Engineer 💻</h3>
 
 <!-- - &ensp;I’m currently learning -->
